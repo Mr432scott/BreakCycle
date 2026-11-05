@@ -1,4 +1,4 @@
-# BreakCycle v1.4 — Unified Loans
+# BreakCycle v1.5 — Unified Loans
 
 - Removed the separate Exit Plan navigation tab.
 - The **Loans** tab now contains installment loans, payday loans/advances, actual repayment recording, and future borrowing-reduction scenarios.
